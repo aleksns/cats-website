@@ -114,7 +114,7 @@ html {
   -moz-user-select: none;
   -webkit-user-select: none;
   user-select: none;
-  /* transition: transform 0.9s; */
+   /* transition: transform 0.9s; */
 }
 .header-minimized {
   top: var(--header-height-y-offset);
