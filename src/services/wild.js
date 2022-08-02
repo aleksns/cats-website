@@ -1,13 +1,13 @@
 export const wildImages = [
   {
     id: "wild1",
-    original: "/images/wild/wild1.jpg",
-    placeholder: "/images/wild/placeholders/wild-placeholder.jpg",
+    original: "images/wild/wild1.jpg",
+    placeholder: "images/wild/placeholders/wild-placeholder.jpg",
   },
   {
     id: "wild2",
-    original: "/images/wild/wild2.jpg",
-    placeholder: "/images/wild/placeholders/wild-placeholder.jpg",
+    original: "images/wild/wild2.jpg",
+    placeholder: "images/wild/placeholders/wild-placeholder.jpg",
   },
   {
     id: "wild3",
