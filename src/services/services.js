@@ -33,15 +33,15 @@ export const CATEGORIES = [
   {
     id: "categoryWild",
     title: TITLES.WILD,
-    original: "/images/categoriesTitle/wildImageTitle.jpg",
-    placeholder: "/images/categoriesTitle/placeholders/wildImageTitle-placeholder.jpg",
+    original: "images/categoriesTitle/wildImageTitle.jpg",
+    placeholder: "images/categoriesTitle/placeholders/wildImageTitle-placeholder.jpg",
     url: ROUTES.WILD,
   },
   {
     id: "categoryTame",
     title: TITLES.TAME,
-    original: "/images/categoriesTitle/tameImageTitle.jpg",
-    placeholder: "/images/categoriesTitle/placeholders/tameImageTitle-placeholder.jpg",
+    original: "images/categoriesTitle/tameImageTitle.jpg",
+    placeholder: "images/categoriesTitle/placeholders/tameImageTitle-placeholder.jpg",
     url: ROUTES.TAME,
   },
 ];
