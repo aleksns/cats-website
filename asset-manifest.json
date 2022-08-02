@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cats-website/static/css/main.75a6ff70.css",
+    "main.js": "/cats-website/static/js/main.b72b327d.js",
+    "static/js/787.400263e9.chunk.js": "/cats-website/static/js/787.400263e9.chunk.js",
+    "static/media/heroImage5.jpg": "/cats-website/static/media/heroImage5.20e80607967062006c53.jpg",
+    "static/media/heroImage3.jpg": "/cats-website/static/media/heroImage3.c49164f36f19ef9a3961.jpg",
+    "static/media/heroImage2.jpg": "/cats-website/static/media/heroImage2.7d338735650495a2b02d.jpg",
+    "static/media/heroImage1.jpg": "/cats-website/static/media/heroImage1.c6358f238cac6ed56599.jpg",
+    "static/media/contactImageTitle.jpg": "/cats-website/static/media/contactImageTitle.7f4a54123c54c04e40df.jpg",
+    "static/media/heroImage4.jpg": "/cats-website/static/media/heroImage4.4258517a3677817e603d.jpg",
+    "static/media/galleryBg.jpg": "/cats-website/static/media/galleryBg.c88f5ad0083dd9cf538d.jpg",
+    "static/media/email.png": "/cats-website/static/media/email.06e0dca56612ca0e7fde.png",
+    "static/media/telegram.png": "/cats-website/static/media/telegram.18bed811ba030a1a903c.png",
+    "static/media/catImg.png": "/cats-website/static/media/catImg.80c96a836cfc7c5df505.png",
+    "index.html": "/cats-website/index.html",
+    "main.75a6ff70.css.map": "/cats-website/static/css/main.75a6ff70.css.map",
+    "main.b72b327d.js.map": "/cats-website/static/js/main.b72b327d.js.map",
+    "787.400263e9.chunk.js.map": "/cats-website/static/js/787.400263e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75a6ff70.css",
+    "static/js/main.b72b327d.js"
+  ]
+}
